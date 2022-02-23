@@ -1,0 +1,4 @@
+argparse>=1.4.0
+loguru>=0.5.1
+psutil
+requests

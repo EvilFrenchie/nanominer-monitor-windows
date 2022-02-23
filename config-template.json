@@ -1,0 +1,7 @@
+{
+    "telegram":{
+        "bot_token":"******",
+        "bot_chat_id":"@******"
+    },
+    "green-list": ["RocketLeague.exe","DOOMEternalx64vk.exe","FlightSimulator.exe", "vrmonitor.exe", "witcher3.exe"]
+}
